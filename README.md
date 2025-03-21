@@ -7,3 +7,4 @@ March 20, 2025
 march 21
     = implementing sounds andbackground music for my game, I think I will also include a  good nice sunset backdrop for sky
     = I also have fun putting and experimenting on effects such as lighting, lamps, and discovering other tools that i need 
+    = I added the beach and water out of nowhere HWAHAHAHHAHA
