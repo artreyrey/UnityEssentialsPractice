@@ -11,3 +11,10 @@ march 21
 
 March 23
     = I am thinking of what to make  as a project to my professor it should be having any type of things that will have data structure
+    = today I will just focus on my exam and then tommorow i will have my free tiem to plan my game and do the things i really enjoy to explore this career.
+    = I hope that by focusing here i would be able to land  a job in gaming community or even not, I will be able to land a coding job using c# or any job just to get money and trade while learning things I want.
+    = I learned that I am still just a person that will make mistake, be wrong and I needed to take care of my self just for the sake of it.
+    = I will focus on the things that matter, my life, balance, lifestyle and social relationships as the time goes by.
+    = I also need to complete all the things I needed this year.
+    = Getting a job was  a first of it, and then I will scale.
+    = 
