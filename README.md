@@ -17,4 +17,4 @@ March 23
     = I will focus on the things that matter, my life, balance, lifestyle and social relationships as the time goes by.
     = I also need to complete all the things I needed this year.
     = Getting a job was  a first of it, and then I will scale.
-    = 
+    = While being game dev, I am learning everyday not just about skills but my life so as this as my devlog, I will use this to log my experiences not just a roadmap log as a game developer but lessons I learned along the way.
