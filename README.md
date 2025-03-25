@@ -22,4 +22,5 @@ March 23
 March 24
     = Im procrastinating but still i'll make my attendance
     = I'm still thinking of my upcoming big project this saturday
-    = 
+    = I think im gonna use unity and make a game that look's nice 
+    = I don't have an idea what will by my concept but i'll think about it
