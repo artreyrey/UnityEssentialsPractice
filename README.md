@@ -26,3 +26,4 @@ March 24
     = I don't have an idea what will by my concept but i'll think about it
     = I think I'm gonna use my older plan game for tommoworow.
     = I'll try to also use different design, sound effects and other free assets
+    = I need to color grade my game also
