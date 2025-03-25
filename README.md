@@ -27,3 +27,4 @@ March 24
     = I think I'm gonna use my older plan game for tommoworow.
     = I'll try to also use different design, sound effects and other free assets
     = I need to color grade my game also
+    = Wish me luck for tommorow's tournament I wish we win
