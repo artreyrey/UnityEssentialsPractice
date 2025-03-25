@@ -18,3 +18,6 @@ March 23
     = I also need to complete all the things I needed this year.
     = Getting a job was  a first of it, and then I will scale.
     = While being game dev, I am learning everyday not just about skills but my life so as this as my devlog, I will use this to log my experiences not just a roadmap log as a game developer but lessons I learned along the way.
+
+March 24
+    = Im procrastinating but still i'll make my attendance
