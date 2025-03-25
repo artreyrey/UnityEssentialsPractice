@@ -24,3 +24,5 @@ March 24
     = I'm still thinking of my upcoming big project this saturday
     = I think im gonna use unity and make a game that look's nice 
     = I don't have an idea what will by my concept but i'll think about it
+    = I think I'm gonna use my older plan game for tommoworow.
+    = I'll try to also use different design, sound effects and other free assets
