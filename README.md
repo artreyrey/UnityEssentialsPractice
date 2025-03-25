@@ -21,3 +21,5 @@ March 23
 
 March 24
     = Im procrastinating but still i'll make my attendance
+    = I'm still thinking of my upcoming big project this saturday
+    = 
