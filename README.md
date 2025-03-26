@@ -31,4 +31,5 @@ March 24
 
 march 25
     = I finished the tournament, and I learned that competetiveness gives happiness to players, as a developer it'll be handy in the future. Understanding game concepts
-    = 
+    = Today I am gonna review the plan I wanted to do. I will not also use fire base but still use vectors and data base.
+    = I wanted to make a multiplayer game
