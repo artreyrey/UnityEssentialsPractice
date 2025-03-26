@@ -34,4 +34,4 @@ march 25
     = Today I am gonna review the plan I wanted to do. I will not also use fire base but still use vectors and data base.
     = I wanted to make a multiplayer game.
     = Today I will make my plan and proposal for that and then i will proceed.
-    
+    = i also need to make the new project and makesure it'll run on webgl before proceeding.
