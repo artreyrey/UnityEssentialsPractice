@@ -28,3 +28,7 @@ March 24
     = I'll try to also use different design, sound effects and other free assets
     = I need to color grade my game also
     = Wish me luck for tommorow's tournament I wish we win
+
+march 25
+    = I finished the tournament, and I learned that competetiveness gives happiness to players, as a developer it'll be handy in the future. Understanding game concepts
+    = 
