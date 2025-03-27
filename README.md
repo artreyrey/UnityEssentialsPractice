@@ -38,3 +38,5 @@ march 25
 
 march 26
     = I'm making my proposal plan.
+    = It'll be my first hard project so I need to focus and put some work there. 
+    = I will also try to make it a little easier
