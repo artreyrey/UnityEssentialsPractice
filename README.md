@@ -35,3 +35,6 @@ march 25
     = I wanted to make a multiplayer game.
     = Today I will make my plan and proposal for that and then i will proceed.
     = i also need to make the new project and makesure it'll run on webgl before proceeding.
+
+march 26
+    = I'm making my proposal plan.
