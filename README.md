@@ -41,3 +41,7 @@ march 26
     = It'll be my first hard project so I need to focus and put some work there. 
     = I will also try to make it a little easier
     = I will just make 
+
+march 27
+    = I finished my plan for my project
+    = tommorow im gonna present it and hopefully be accepted
